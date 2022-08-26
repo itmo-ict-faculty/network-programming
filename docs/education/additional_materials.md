@@ -1,4 +1,5 @@
 ## Дополнительные материалы по желанию
+### Классические сети связи и их современные направления развития
 1. [linkmeup и сети для самых маленьких](https://linkmeup.ru/sdsm/)
 2. [linkmeup и автоматизация для самых маленьких](https://linkmeup.ru/adsm/)
 3. [Python для сетевых инженеров](https://pyneng.readthedocs.io/ru/latest/)
@@ -8,5 +9,11 @@
 7. Конференция [Yandex nexthop 2019](https://events.yandex.ru/events/nexthop2019) **(обратите внимание на презентации к конференции)**
 8. Конференция [Yandex nexthop 2018](https://events.yandex.ru/events/nexthop2018) **(обратите внимание на презентации к конференции)**
 
+### Язык программирования P4
+1. [p4lang/education](https://github.com/p4lang/education/wiki/courses)
+2. Youtube [P4 Tutorial 1 - Introduction to Data Plane Programming](https://www.youtube.com/watch?v=4w-jEr99pBE)
+3. Youtube [P4 Tutorial 2 - Basics Part I](https://www.youtube.com/watch?v=cvDtVobw9wE)
+4. Youtube [P4 Tutorial 3 - Basics Part II](https://www.youtube.com/watch?v=6LXtneLfAPI)
+5. Youtube [P4 Tutorial 4 - Basic Tunneling Application](https://www.youtube.com/watch?v=KlEi87XYMBE)
 
 ## Литература
