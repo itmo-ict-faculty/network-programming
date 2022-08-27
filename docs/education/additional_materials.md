@@ -10,10 +10,13 @@
 8. Конференция [Yandex nexthop 2018](https://events.yandex.ru/events/nexthop2018) **(обратите внимание на презентации к конференции)**
 
 ### Язык программирования P4
-1. [p4lang/education](https://github.com/p4lang/education/wiki/courses)
+1. Github [p4lang/education](https://github.com/p4lang/education/wiki/courses)
 2. Youtube [P4 Tutorial 1 - Introduction to Data Plane Programming](https://www.youtube.com/watch?v=4w-jEr99pBE)
 3. Youtube [P4 Tutorial 2 - Basics Part I](https://www.youtube.com/watch?v=cvDtVobw9wE)
 4. Youtube [P4 Tutorial 3 - Basics Part II](https://www.youtube.com/watch?v=6LXtneLfAPI)
 5. Youtube [P4 Tutorial 4 - Basic Tunneling Application](https://www.youtube.com/watch?v=KlEi87XYMBE)
 
+### P4 Integrated Network Stack (PINS)
+1. Конференция 2022 Workshop P4, [PINS update](https://opennetworking.org/wp-content/uploads/2022/05/PINS-Update-Final-Slide-Deck.pdf)
+2. Github [pins/tutorials](https://github.com/pins/tutorials)
 ## Литература
