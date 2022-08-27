@@ -18,5 +18,7 @@
 
 ### P4 Integrated Network Stack (PINS)
 1. Конференция 2022 Workshop P4, [PINS update](https://opennetworking.org/wp-content/uploads/2022/05/PINS-Update-Final-Slide-Deck.pdf)
-2. Github [pins/tutorials](https://github.com/pins/tutorials)
+2. Конференция 2022 Workshop P4, [P4 as a single source of truth for SONiC DASH use cases on both SoftSwitch and Hardware](https://opennetworking.org/wp-content/uploads/2022/05/Reshma-Sudarshan-Chris-Sommers-Final-Slide-Deck.pdf)
+3. Конференция 2022 Workshop P4, [P4-OVS Split Architecture](https://opennetworking.org/wp-content/uploads/2022/05/P4-OVS-Split-Architecture-Final-Slide-Deck.pdf)
+4. Github [pins/tutorials](https://github.com/pins/tutorials)
 ## Литература
