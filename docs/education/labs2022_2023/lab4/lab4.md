@@ -10,3 +10,22 @@
 Правила по оформлению отчета по лабораторной работе вы можете изучить по [ссылке](../reportdesign.md)
 
 ### Ход работы
+Данную лабораторную работу рекомендуется начать с изучения [P416 Language Specification](https://p4.org/p4-spec/docs/P4-16-v1.2.3.pdf), этот документ поможет вам в первоначальном представлении о языке программирования P4.
+
+Перед выполнением лабораторной работы вам необходимо выполнить следующие задачи:
+> Желательно все делать на устройстве с архитектурой x86, [оригинальная инструкция](https://github.com/p4lang/tutorials/blob/master/README.md)  
+- Склонировать репозиторий [p4lang/tutorials](https://github.com/p4lang/tutorials)
+- Установить Vagrant и VirtualBox
+- Перейти в папку `cd vm-ubuntu-20.04`
+- Используя Vagrant развернуть тестовую среду `vagrant up`
+- В результате установки у вас появится виртуальная машина с аккаунтами login/password `vagrant/vagrant` и `p4/p4`
+
+Первой частью лабораторной работы является задание [Implementing Basic Forwarding](https://github.com/p4lang/tutorials/tree/master/exercises/basic).
+В нем необходимо выполнить следующие задачи:
+
+
+>*Note*: Before running the `vagrant up` command, make sure you have enabled virtualization in your environment; otherwise you may get a "VT-x is disabled in the BIOS for both all CPU modes" error. Check [this](https://stackoverflow.com/questions/33304393/vt-x-is-disabled-in-the-bios-for-both-all-cpu-modes-verr-vmx-msr-all-vmx-disabl) for enabling it in virtualbox and/or BIOS for different system configurations.
+
+Второй частью лабораторной работы является задание [Implementing Basic Tunneling](https://github.com/p4lang/tutorials/tree/master/exercises/basic_tunnel)
+В нем необходимо выполнить следующие задачи:
+- Развернуть виртуальную тестовую сеть используя `mininet`
