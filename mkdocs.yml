@@ -15,9 +15,13 @@ theme:
     #     icon: material/weather-night
     #     name: Switch to light mode
 #  logo: assets/logo.png
+  markdown_extensions:
+      codehilite:
+          use_pygments: False
   icon:
     repo: fontawesome/brands/github
   features:
+    - content.code.annotate
     - navigation.instant
     - navigation.tracking
 #    - navigation.tabs
