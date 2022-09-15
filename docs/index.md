@@ -17,7 +17,7 @@
 
 - [Лекции](https://itmo-ict-faculty.github.io/network-programming/education/lecture)
 - [Лабораторные работы](https://itmo-ict-faculty.github.io/network-programming/education/labs)
-- [Дополнительные материалы](https://itmo-ict-faculty.github.io/network-programming/education/additional_materials.md)
+- [Дополнительные материалы](https://itmo-ict-faculty.github.io/network-programming/education/additional_materials)
 
 ## Методы оценивания
 - Для получения оценки 3 необходимо набрать не менее 60% во всех лабораторных работах и экзамене. Среднее значение должно быть между 60 и 75 процентами. 
