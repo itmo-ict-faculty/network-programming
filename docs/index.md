@@ -17,7 +17,7 @@
 
 - [Лекции](https://itmo-ict-faculty.github.io/network-programming/education/lecture)
 - [Лабораторные работы](https://itmo-ict-faculty.github.io/network-programming/education/labs)
-- [Дополнительные материалы](https://itmo-ict-faculty.github.io/network-programming/education/additional_materials.md)
+- [Дополнительные материалы](https://itmo-ict-faculty.github.io/network-programming/education/additional_materials/)
 
 ## Методы оценивания
 - Для получения оценки 3 необходимо набрать не менее 60% во всех лабораторных работах и экзамене. Среднее значение должно быть между 60 и 75 процентами. 
@@ -27,7 +27,7 @@
 ## Опыт предыдущих коллег
 В данном репозитории также находятся проекты студентов, показавшиеся преподавателям наиболее интересными. В них собраны статьи, разработки и исследования которые могут помочь вам в изучении данной учебной дисциплины.
 
-- [ITMO 2022/2023](https://itmo-ict-faculty.github.io/network-programming/student_case/itmo2022_2023)
+- [ITMO 2022/2023](https://itmo-ict-faculty.github.io/network-programming/student_case/itmo2022_2023/itmo2022_2023/)
 
 ## Как стать контрибьютером?
 Если вы нашли какую-то ошибку или решили добавить интересные материалы в данный репозиторий, то просьба обратить внимание на инструкцию [тут](https://github.com/itmo-ict-faculty/network-programming/blob/main/README.md)
