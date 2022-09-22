@@ -19,20 +19,20 @@
 > Если не получается в Microsoft Azure, можете выбрать любого бесплатного облачного провайдера
 
 - В бесплатном режиме Microsoft Azure предлагает для виртуальных машин только Ubuntu 16.4, нам нужна Ubuntu 18.+ поэтому необходимо обновить операционную систему. Сделать это можно с помощью данных команд:
+```bash
+sudo apt update & sudo apt upgrade
+sudo do-release-upgrade
+```
 
+
+- Теперь необходимо установить python3 и Ansible:
 ```bash
 sudo apt install python3-pip
 ls -la /usr/bin/python3.6
 sudo pip3 install ansible
 ansible --version
-```
+```   
 
-- Теперь необходимо установить python3 и Ansible:
-   
-```bash
-sudo apt update & sudo apt upgrade
-sudo do-release-upgrade
-```
    
 
 - Далее вам необходимо на вашем компьютере установить VirtualBox а на него CHR (RouterOS).
