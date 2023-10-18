@@ -20,6 +20,7 @@
     NTP Client;
 
     OSPF с указанием Router ID;
+
 4. Собрать данные по OSPF топологии и полный конфиг устройства.
 >Что использовать:
 routeros_facts, routeros_commands. 
